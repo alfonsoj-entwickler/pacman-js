@@ -1,0 +1,10 @@
+package-lock.json
+.env
+.history
+.sass-cache/
+.versions/
+node_modules/
+$RECYCLE.BIN/
+
+.DS_Store
+Thumbs.db
