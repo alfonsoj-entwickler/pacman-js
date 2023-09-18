@@ -1,4 +1,6 @@
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
 # pacman-js
-I create a simple pacman with vanilla javascript
+I create a simple Pacman Game with vanilla javascript
+
+In **Pac-Man**, the player controls the character Pac-Man, who must navigate through a maze filled with pac-dots and fruits. The objective is to eat all the pac-dots while avoiding the ghosts that roam the maze. The player can move Pac-Man in four directions: up, down, left, and right. As Pac-Man moves, he leaves a trail behind him. When Pac-Man encounters a power pellet, he can temporarily turn the tables on the ghosts by eating them. This is known as "power mode" or "power-up". During power mode, the ghosts turn blue and become vulnerable to being eaten by Pac-Man. However, power mode only lasts for a limited time before the ghosts return to their normal state. The game ends when Pac-Man loses all of his lives by colliding with a ghost or when all the pac-dots have been eaten. The player's score is determined by the number of pac-dots and fruits eaten, as well as the number of ghosts consumed during power mode. The game features different mazes with varying layouts and difficulty levels as the player progresses. 
